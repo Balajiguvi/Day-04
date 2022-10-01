@@ -1,3 +1,5 @@
+// 3.Printing all country details.
+
 var request1=new XMLHttpRequest();
 request1.open('GET', 'https://restcountries.com/v3.1/all');
 request1.send();
